@@ -7,7 +7,7 @@ The goal is to share a practical working solution for automated JourneyMap scann
 
 What this does
 - Teleports players on a grid to force chunk loading and fill JourneyMap quickly
-- Supports two players at once
+- Supports many players at once
 - Saves progress so you can stop and resume
 - Prints progress like 25/1681 and percent complete
 - Includes a spiral scan mode that starts at 0,0 and works outward
